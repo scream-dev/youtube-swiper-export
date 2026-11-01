@@ -44,7 +44,7 @@ Runs directly inside your browser's Developer Tools Console without installing e
 
 ## Configuration
 
-You can tweak the constants at the top of `extractor.js` if needed:
+You can tweak the constants at the top of `export.js` if needed:
 
 | Parameter | Default | Description |
 |---|---|---|
