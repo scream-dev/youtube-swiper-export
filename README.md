@@ -1,4 +1,4 @@
-# YouTube Saved Shorts URL Extractor
+# YouTube Swiper Export
 
 A robust, client-side automation tool designed to extract every single video link from the YouTube **Saved Shorts** private collection into a clean `.txt` file.
 
